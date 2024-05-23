@@ -1,0 +1,6 @@
+Utwórz plik uzasadnienie.txt, zapisz w nim dlaczego wybrałeś konkretną kolekcję w klasie ListaUczniow:
+Wybrałem List<> dlatego ponieważ uważam ze byl idealny do uzycia w tym projekcie.
+Idealnie sie spisuje do przechowywania Obiektow.
+
+Dziekuje za uwage,
+Program pisał Filip Aleksandrowicz 3TP
